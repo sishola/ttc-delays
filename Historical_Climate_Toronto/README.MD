@@ -1,5 +1,8 @@
 ## The purpose of the notebook is to combine the daily weather reports from (http://www.climate.weather.gc.ca) for west, east, north, south and central toronto weather stations.
 
+The weather data was taken from the internet through the use of wget on cygwin64.  Instructions can be found in "Readme_ftp.txt".
+The cygwin64 code used can be found in "Cygwin_wgets.txt".
+
 These weather stations will be averaged in a later notebook to obtain true daily weather and climate for toronto which is representative of the whole region.
 
 ## TOR_BUTTON_COMBINED - North East near Markham
