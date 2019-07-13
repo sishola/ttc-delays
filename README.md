@@ -11,7 +11,7 @@ TTC Delays
 
 
 Living in Toronto, we have all experience delays taking the Toronto Transit Commission (TTC).
-This project explores the relationship between TTC transportation modes (Subway, Streetcars and Buses), routes, day of week, time of day, weather and ongoing events:
+This project examines the relationship between TTC transportation modes (Subway, Streetcars and Buses) & routes, day of week, time of day, weather and ongoing events in order to establish how these cause delays. Questions asked include:
 * Does weather impact Subway delays?
 * Does weather impact Bus/Streetcar delays?
 * Does day of the week impact Subway delays?
